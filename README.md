@@ -4,5 +4,7 @@ Here is the toy datasets about mapping multiple cues to mutual poses for [Mutual
 This is RS16-based datasets. Before using the data, change [config.yaml](https://github.com/BIT-MJY/Mutual-Pose-Recognition-Based-on-Multiple-Cues-in-MRS/blob/main/pose_learning/config.yaml) 
 
 ```
+height: 16
+width: 360
 use_vlp: True.
 ```
