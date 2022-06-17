@@ -11,13 +11,11 @@ use_vlp: True.
 ## Publication
 If you use our dataset in your academic work, please cite the corresponding [paper](https://ieeexplore.ieee.org/document/9641141):
 ```
-@INPROCEEDINGS{9641141,
+@INPROCEEDINGS{ma2021icus,
   author={Ma, Junyi and Xiong, Guangming and Xu, Jingyi and Song, Jiarui and Sun, Dong},
   booktitle={2021 IEEE International Conference on Unmanned Systems (ICUS)}, 
   title={Mutual Pose Recognition Based on Multiple Cues and Uncertainty Capture in Multi-robot Systems}, 
   year={2021},
-  volume={},
-  number={},
   pages={527-534},
   doi={10.1109/ICUS52573.2021.9641141}}
 ```
